@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Microsoft YaHei';
+  color: #333;
+  background-color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  /* 去掉 轮播图 Chrome浏览器的错误警告 */
+  touch-action: pan-y;
+}
+ul{
+  list-style: none;
+}
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+html,
+body,
+#root,
+.App {
+  height: 100%;
+}

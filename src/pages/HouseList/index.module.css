@@ -1,0 +1,17 @@
+
+.header {
+    height: 45px;
+    padding: 0 10px;
+    background-color: #f6f5f6;
+}
+
+.searchHeader {
+    position: relative;
+    top: 0;
+    padding: 0;
+}
+
+.search-box .icon-map {
+    font-size: 25px;
+    color: #6709fd;
+}
